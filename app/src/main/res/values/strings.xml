@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListViewLoadRefresh</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="xlistview_footer_ready_hint">松开载入更多</string>
+    <string name="xlistview_footer_normal_hint">加载更多……</string>
+    <string name="xlistview_footer_loading_hint">正在加载……</string>
+</resources>
